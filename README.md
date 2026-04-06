@@ -1,5 +1,5 @@
-AI Job Market Trends Exploratory Data Analysis (EDA)
-
+**AI Job Market Trends Exploratory Data Analysis (EDA)
+**********
 Project Overview
 
 This project performs Exploratory Data Analysis (EDA) on an AI Job Trends dataset to understand hiring patterns, salary distribution, job types, and application deadlines.
