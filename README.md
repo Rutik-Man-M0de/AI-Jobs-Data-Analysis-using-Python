@@ -7,7 +7,8 @@ This project performs Exploratory Data Analysis (EDA) on an AI Job Trends datase
 The goal of this project is to analyze job-related data and extract meaningful insights that help understand trends in the AI job market.
 
 Objectives
-Analyze number of jobs posted per month
+Analyze number of jobs posted per month.
+
 Study salary distribution across job roles
 Identify remote, hybrid, and on-site job trends
 Analyze required skills and experience levels
